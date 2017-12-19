@@ -1,0 +1,7 @@
+1. To run the program please opn CardFight.javaand to run server please open server.java
+
+No command line args, just ignore them and start normally. Launch cardFight,java twice for two players.
+
+Careful with sound though. can be loud
+
+In order to terminate the program please stop the program from the editior or command line

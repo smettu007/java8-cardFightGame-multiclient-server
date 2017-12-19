@@ -1,0 +1,11 @@
+1. To run the program please opn CardFight.javaand to run server please open server.java
+
+Note: I implemented background music please turn down your volume or mute it down. 
+And also please changethe resouce of the music files as i was using netbeans it has to be absolute path
+
+I was able to implement the backof the card so that you canf flip it, i wanted to 
+desgn game front cards but i didnt have enough time.
+
+Music can be buggy please be careful when you terminate the program
+
+Protocol can be found in 
